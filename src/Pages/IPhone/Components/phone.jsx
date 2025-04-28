@@ -1,12 +1,16 @@
 import React, { useEffect, useState } from 'react'
+import style from './Phone.module.css'
 import { Link } from 'react-router-dom';
-import style from '../Css/AllCss.module.css'
-
-
-export default function Sec3()
+export default function phone()
 {
     const [iphoneData, setIphoneData] = useState([]);
-
+    // const arr = [
+    //     { img: `${img1}`, },
+    //     { img: `${img2}`, },
+    //     { img: `${img3}`, },
+    //     { img: `${img4}`, },
+    //     { img: `${img5}`, },
+    // ]
 
     useEffect(() =>
     {
@@ -16,17 +20,12 @@ export default function Sec3()
     }, []);
     return (
         <div className={style.container}>
-
-            <div className={style.text}>
-                <h2>iPhone</h2>
-                <Link to='/iphone'> show all iphone</Link>
-            </div>
-
             <div className={style.containt}>
-                {iphoneData.slice(0, 5).map((iphone, i) => (
+                {iphoneData.map((iphone, i) => (
                     <div className={style.crud} key={i}>
                         <h3>{iphone.name}</h3>
                         <p>{iphone.price}</p>
+                        <Link to={`/iphone/${iphone.id}`} >moer</Link>
                     </div>
                 ))}
             </div>

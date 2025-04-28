@@ -1,7 +1,7 @@
 import React from 'react'
-
+import MainLayouts from '../../Layouts/MainLayouts'
 export default function Airpods() {
   return (
-    <div>Airpods</div>
+    <MainLayouts>Airpods</MainLayouts>
   )
 }

@@ -1,7 +1,7 @@
 import React from 'react'
-
+import MainLayouts from '../../Layouts/MainLayouts'
 export default function Tv() {
   return (
-    <div>Tv</div>
+    <MainLayouts>Tv</MainLayouts>
   )
 }

@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "iPhone 2G",
         "description": "The first iPhone released by Apple in 2007.",
         "price": "599 USD",
@@ -12,7 +12,7 @@
         "battery": "1400 mAh"
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "iPhone 3G",
         "description": "The second iPhone, featuring 3G support.",
         "price": "499 USD",
@@ -24,7 +24,7 @@
         "battery": "1150 mAh"
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "iPhone 3GS",
         "description": "The third iPhone model, offering better performance and new features.",
         "price": "599 USD",
@@ -36,7 +36,7 @@
         "battery": "1219 mAh"
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "iPhone 4",
         "description": "iPhone 4 featured the first Retina display and FaceTime.",
         "price": "699 USD",
@@ -48,7 +48,7 @@
         "battery": "1420 mAh"
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "iPhone 4S",
         "description": "The iPhone 4S introduced Siri and the A5 chip.",
         "price": "749 USD",
@@ -60,7 +60,7 @@
         "battery": "1432 mAh"
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "iPhone 5",
         "description": "iPhone 5 brought a larger screen size and Lightning connector.",
         "price": "649 USD",
@@ -72,7 +72,7 @@
         "battery": "1440 mAh"
     },
     {
-        "id": 7,
+        "id": "7",
         "name": "iPhone 5C",
         "description": "iPhone 5C offered a plastic body and colorful design.",
         "price": "549 USD",
@@ -84,7 +84,7 @@
         "battery": "1510 mAh"
     },
     {
-        "id": 8,
+        "id": "8",
         "name": "iPhone 5S",
         "description": "iPhone 5S introduced Touch ID and a 64-bit processor.",
         "price": "649 USD",
@@ -96,7 +96,7 @@
         "battery": "1560 mAh"
     },
     {
-        "id": 9,
+        "id": "9",
         "name": "iPhone 6",
         "description": "iPhone 6 featured a larger screen and thinner design.",
         "price": "699 USD",
@@ -108,7 +108,7 @@
         "battery": "1810 mAh"
     },
     {
-        "id": 10,
+        "id": "10",
         "name": "iPhone 6 Plus",
         "description": "iPhone 6 Plus was the first Plus model with a 5.5-inch screen.",
         "price": "799 USD",
@@ -120,7 +120,7 @@
         "battery": "2915 mAh"
     },
     {
-        "id": 11,
+        "id": "11",
         "name": "iPhone 6S",
         "description": "iPhone 6S introduced 3D Touch and a faster processor.",
         "price": "749 USD",
@@ -132,7 +132,7 @@
         "battery": "1715 mAh"
     },
     {
-        "id": 12,
+        "id": "12",
         "name": "iPhone 6S Plus",
         "description": "iPhone 6S Plus introduced 3D Touch and a larger screen.",
         "price": "849 USD",
@@ -144,7 +144,7 @@
         "battery": "2750 mAh"
     },
     {
-        "id": 13,
+        "id": "13",
         "name": "iPhone 7",
         "description": "iPhone 7 removed the headphone jack and introduced a new camera system.",
         "price": "649 USD",
@@ -156,7 +156,7 @@
         "battery": "1960 mAh"
     },
     {
-        "id": 14,
+        "id": "14",
         "name": "iPhone 7 Plus",
         "description": "iPhone 7 Plus introduced dual cameras and a larger screen.",
         "price": "769 USD",
@@ -168,7 +168,7 @@
         "battery": "2900 mAh"
     },
     {
-        "id": 15,
+        "id": "15",
         "name": "iPhone 8",
         "description": "iPhone 8 introduced wireless charging and a faster processor.",
         "price": "699 USD",
@@ -180,7 +180,7 @@
         "battery": "1821 mAh"
     },
     {
-        "id": 16,
+        "id": "16",
         "name": "iPhone 8 Plus",
         "description": "iPhone 8 Plus offered a larger screen and dual cameras.",
         "price": "799 USD",
@@ -192,7 +192,7 @@
         "battery": "2675 mAh"
     },
     {
-        "id": 17,
+        "id": "17",
         "name": "iPhone X",
         "description": "iPhone X was the first iPhone with an OLED display and Face ID.",
         "price": "999 USD",
@@ -204,7 +204,7 @@
         "battery": "2716 mAh"
     },
     {
-        "id": 18,
+        "id": "18",
         "name": "iPhone XS",
         "description": "iPhone XS improved on the iPhone X with faster performance and better cameras.",
         "price": "999 USD",
@@ -216,7 +216,7 @@
         "battery": "2658 mAh"
     },
     {
-        "id": 19,
+        "id": "19",
         "name": "iPhone XS Max",
         "description": "iPhone XS Max offered a larger display and improved features.",
         "price": "1099 USD",
@@ -228,7 +228,7 @@
         "battery": "3174 mAh"
     },
     {
-        "id": 20,
+        "id": "20",
         "name": "iPhone XR",
         "description": "iPhone XR introduced a variety of colors and improved battery life.",
         "price": "749 USD",
@@ -240,7 +240,7 @@
         "battery": "2942 mAh"
     },
     {
-        "id": 21,
+        "id": "21",
         "name": "iPhone 11",
         "description": "iPhone 11 featured a new dual-camera system and improved performance.",
         "price": "699 USD",
@@ -252,7 +252,7 @@
         "battery": "3110 mAh"
     },
     {
-        "id": 22,
+        "id": "22",
         "name": "iPhone 11 Pro",
         "description": "iPhone 11 Pro featured a triple-camera system and OLED display.",
         "price": "999 USD",
@@ -264,7 +264,7 @@
         "battery": "3046 mAh"
     },
     {
-        "id": 23,
+        "id": "23",
         "name": "iPhone 11 Pro Max",
         "description": "iPhone 11 Pro Max offered a larger display and improved camera system.",
         "price": "1099 USD",
@@ -276,7 +276,7 @@
         "battery": "3969 mAh"
     },
     {
-        "id": 24,
+        "id": "24",
         "name": "iPhone SE (2nd generation)",
         "description": "iPhone SE (2nd gen) combined a powerful A13 Bionic chip with the design of the iPhone 8.",
         "price": "399 USD",
@@ -288,7 +288,7 @@
         "battery": "1821 mAh"
     },
     {
-        "id": 25,
+        "id": "25",
         "name": "iPhone 12 Mini",
         "description": "iPhone 12 Mini was a smaller version of the iPhone 12 with 5G support.",
         "price": "699 USD",
@@ -300,7 +300,7 @@
         "battery": "2227 mAh"
     },
     {
-        "id": 26,
+        "id": "26",
         "name": "iPhone 12",
         "description": "iPhone 12 introduced 5G connectivity and a new design.",
         "price": "799 USD",
@@ -312,7 +312,7 @@
         "battery": "2815 mAh"
     },
     {
-        "id": 27,
+        "id": "27",
         "name": "iPhone 12 Pro",
         "description": "iPhone 12 Pro featured a LiDAR scanner and a Super Retina XDR display.",
         "price": "999 USD",
@@ -324,7 +324,7 @@
         "battery": "2815 mAh"
     },
     {
-        "id": 28,
+        "id": "28",
         "name": "iPhone 12 Pro Max",
         "description": "iPhone 12 Pro Max offered the largest screen and enhanced camera system.",
         "price": "1099 USD",
@@ -336,7 +336,7 @@
         "battery": "3687 mAh"
     },
     {
-        "id": 29,
+        "id": "29",
         "name": "iPhone 13 Mini",
         "description": "iPhone 13 Mini continued the compact form with better cameras and performance.",
         "price": "699 USD",
@@ -348,7 +348,7 @@
         "battery": "2438 mAh"
     },
     {
-        "id": 30,
+        "id": "30",
         "name": "iPhone 13",
         "description": "iPhone 13 featured a smaller notch and better performance.",
         "price": "799 USD",
@@ -360,7 +360,7 @@
         "battery": "3240 mAh"
     },
     {
-        "id": 31,
+        "id": "31",
         "name": "iPhone 13 Pro",
         "description": "iPhone 13 Pro included ProMotion technology and improved cameras.",
         "price": "999 USD",
@@ -372,7 +372,7 @@
         "battery": "3095 mAh"
     },
     {
-        "id": 32,
+        "id": "32",
         "name": "iPhone 13 Pro Max",
         "description": "iPhone 13 Pro Max offered the largest screen with ProMotion technology.",
         "price": "1099 USD",
@@ -384,7 +384,7 @@
         "battery": "4352 mAh"
     },
 	{
-        "id": 33,
+        "id": "33",
         "name": "iPhone 14",
         "description": "iPhone 14 offers improvements in camera performance, battery life, and features like Crash Detection.",
         "price": "799 USD",
@@ -396,7 +396,7 @@
         "battery": "3279 mAh"
     },
     {
-        "id": 34,
+        "id": "34",
         "name": "iPhone 14 Plus",
         "description": "iPhone 14 Plus features a larger screen and improved battery life compared to the standard model.",
         "price": "899 USD",
@@ -408,7 +408,7 @@
         "battery": "4325 mAh"
     },
     {
-        "id": 35,
+        "id": "35",
         "name": "iPhone 14 Pro",
         "description": "iPhone 14 Pro introduces a new Dynamic Island and a 48 MP main camera.",
         "price": "999 USD",
@@ -420,7 +420,7 @@
         "battery": "3200 mAh"
     },
     {
-        "id": 36,
+        "id": "36",
         "name": "iPhone 14 Pro Max",
         "description": "iPhone 14 Pro Max features the largest screen, enhanced performance, and the best camera system in an iPhone.",
         "price": "1099 USD",
@@ -432,7 +432,7 @@
         "battery": "4323 mAh"
     },
     {
-        "id": 37,
+        "id": "37",
         "name": "iPhone 15",
         "description": "iPhone 15 features USB-C, improved cameras, and the A16 Bionic chip.",
         "price": "799 USD",
@@ -444,7 +444,7 @@
         "battery": "3279 mAh"
     },
     {
-        "id": 38,
+        "id": "38",
         "name": "iPhone 15 Plus",
         "description": "iPhone 15 Plus offers a larger screen and the same great performance as the iPhone 15.",
         "price": "899 USD",
@@ -456,7 +456,7 @@
         "battery": "4325 mAh"
     },
     {
-        "id": 39,
+        "id": "39",
         "name": "iPhone 15 Pro",
         "description": "iPhone 15 Pro introduces a titanium frame and the A17 Pro chip, offering enhanced performance and new features.",
         "price": "999 USD",
@@ -468,7 +468,7 @@
         "battery": "3200 mAh"
     },
     {
-        "id": 40,
+        "id": "40",
         "name": "iPhone 15 Pro Max",
         "description": "iPhone 15 Pro Max offers the best in iPhone performance, with the A17 Pro chip and improved camera systems.",
         "price": "1199 USD",

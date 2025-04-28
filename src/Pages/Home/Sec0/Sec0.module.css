@@ -1,0 +1,39 @@
+/* الحاوية الرئيسية */
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+
+}
+
+
+.img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    
+}
+
+
+.content {
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+
+
+.text {
+    font-size: 32px;
+    line-height: 1.8;
+    color: white;
+}
+
+
+.phoneImg {
+    width: 450px;
+    height: auto;
+}

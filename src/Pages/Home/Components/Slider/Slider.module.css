@@ -1,5 +1,38 @@
-
-img{
+img {
     width: 100%;
-    height: 70vh;
+    height: 60vh;
+}
+
+.Caption {
+    position: absolute;
+    top: 150px;
+    left: -600px;
+}
+
+
+.Caption a {
+    line-height: 5;
+    text-decoration: none;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    margin-top: 15px;
+}
+
+.Caption a:hover {
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 30px rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+.Caption h3{
+    color:rgb(27, 34, 86)
 }

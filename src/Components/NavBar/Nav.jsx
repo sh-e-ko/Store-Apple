@@ -2,6 +2,7 @@ import React from 'react'
 import { FaApple } from "react-icons/fa";
 import { Link } from 'react-router-dom';
 import style from './Nav.module.css'
+import { CiSearch } from "react-icons/ci";
 
 export default function Nav()
 {
@@ -9,7 +10,7 @@ export default function Nav()
         <nav className={style.nav}>
             {/* icon */}
             <div className={style.navIcon}>
-                <FaApple />
+                <Link to='/'> <FaApple /> </Link>
             </div>
             {/* Links */}
             <div>
@@ -26,8 +27,9 @@ export default function Nav()
                 </ul>
             </div>
             {/* input Search */}
-            <div>
-                <input type="search" placeholder='search' />
+            <div className={style.inputSearch}>
+                <input type="text" placeholder='search' />
+                <CiSearch className={style.inputicon} />
             </div>
         </nav>
     )

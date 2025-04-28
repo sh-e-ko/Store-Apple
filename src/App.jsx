@@ -10,6 +10,8 @@ import Watch from './Pages/Watch/Watch'
 import IPhone from './Pages/IPhone/IPhone'
 import Tv from './Pages/Tv/Tv'
 import Airpods from './Pages/Airpods/Airpods'
+import PhonePage from './Pages/IPhone/Components/PhonePage';
+import PadPage from './Pages/iPad/Components/PadPage';
 function App()
 {
   const routs = useRoutes([
@@ -45,6 +47,14 @@ function App()
     {
       path: "/airpods",
       element: <Airpods />
+    },
+    {
+      path: "/iPhone/:id",
+      element: <PhonePage />
+    },
+    {
+      path: "/iPad/:id",
+      element: <PadPage />
     },
 
     
